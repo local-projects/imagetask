@@ -1,5 +1,5 @@
 from PIL import Image
-from flask import send_file
+from flask import make_response
 
 from imagetask import ImageTaskApp
 
